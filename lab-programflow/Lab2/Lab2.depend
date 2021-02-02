@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1607906167 source:c:\users\dr\documents\gmit-course-cpp\lab-programflow\lab2\main.cpp
+	<iostream>
+	"Functions.h"
+
+1607906167 c:\users\dr\documents\gmit-course-cpp\lab-programflow\lab2\functions.h
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
