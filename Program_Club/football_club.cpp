@@ -1,7 +1,6 @@
                         // football club.cpp //
 
-#include <iostream>
-using namespace std;
+
 #include "football_club.h"
 
 
@@ -11,15 +10,14 @@ using namespace std;
         this-> district = district;
         }
 
-   /*                     // Constructor //
+                       // Constructor //
     FootballClub::FootballClub(string clubname){
         this-> clubname = clubname;
         }
 
                         // Print Function //
     void FootballClub::printInfo(){
-        cout<<clubname<<endl;
-
+        cout<<clubname<<endl<<district<<endl;
         }
 
                         // getter funtion //
@@ -31,6 +29,6 @@ using namespace std;
                         //setter function //
     void FootballClub::setClubname(string clubname){
         this-> clubname = clubname;
-    }
+        }
 
-*/
+

@@ -4,7 +4,6 @@
 using namespace std;
 
 
-
                         // Creating a class called FootballClub //
 class FootballClub{
 
@@ -15,19 +14,18 @@ private:                                // These elements are Private and not ex
     string stripColour;
 
 public:                                 // These elements are Public and are externally accessable //
-
-    FootballClub(string clubname, string district){
+    FootballClub(string clubname);
+    FootballClub(string clubname, string district);
+    /*{
         this->clubname = clubname;
         this->district = district;
     }
+*/
+    void setClubname(string clubname);
+    string getClubname();
+    void printInfo();
 
-    void setclubname(string clubname);
-    string getclubname(){
-    return clubname;
-    }
-    void printInfo(){
-    cout<< clubname <<endl<< district <<endl;
-    }
+
 
 
 };

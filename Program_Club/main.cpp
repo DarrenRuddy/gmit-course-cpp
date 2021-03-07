@@ -1,34 +1,20 @@
-                                                                   // Main.cpp//
+                        // Main.cpp//
 
 #include <iostream>
+using namespace std;
 #include "football_club.h"
 #include "player.h"
 
-
-
-using namespace std;
-
-
-
-
-
-
-
-
-
-
-
-
-
+                        // Main Function //
     int main(){
 
 
-    FootballClub UDT ("Mayo","North West");
+    FootballClub Club_Info ("Mayo","North West");
 
-    UDT.printInfo();
+    Club_Info.printInfo();
 
-    player UDT1 ("Oisin","Mullen","Back","0587536984");
+    player Personal_Information ("Oisin","Mullen","Back","0857536984");
 
-    UDT1.printInfo();
+    Personal_Information.printInfo();
 
        }
