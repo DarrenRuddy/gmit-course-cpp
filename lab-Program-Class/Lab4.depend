@@ -7,3 +7,27 @@
 1613235845 c:\users\dr\documents\gmit-course-cpp\lab-programflow\lab-program-class\lab4\labinfo.h
 	<iostream>
 
+1614949273 source:c:\users\irilar\onedrive - gmit\c++\gmit-course-cpp\lab-program-class\main.cpp
+	<iostream>
+	<iomanip>
+	"Labinfo.h"
+
+1614949227 c:\users\irilar\onedrive - gmit\c++\gmit-course-cpp\lab-program-class\labinfo.h
+	<iostream>
+
+1614949245 source:c:\users\irilar\onedrive - gmit\c++\gmit-course-cpp\lab-program-class\labinfo.cpp
+	"Labinfo.h"
+	<iomanip>
+
+1614949245 source:c:\users\dr\desktop\lab-program-class\labinfo.cpp
+	"Labinfo.h"
+	<iomanip>
+
+1614949227 c:\users\dr\desktop\lab-program-class\labinfo.h
+	<iostream>
+
+1614949273 source:c:\users\dr\desktop\lab-program-class\main.cpp
+	<iostream>
+	<iomanip>
+	"Labinfo.h"
+

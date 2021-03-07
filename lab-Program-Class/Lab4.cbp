@@ -32,6 +32,9 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Lab4.cbp" />
+		<Unit filename="Labinfo.cpp" />
+		<Unit filename="Labinfo.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />

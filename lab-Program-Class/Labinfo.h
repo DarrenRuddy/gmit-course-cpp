@@ -8,11 +8,12 @@ using namespace std;
 
 
 
-void Labinfo(){                         // Creating a Function Called LabInfo //
+void Labinfo();
+/*{                         // Creating a Function Called LabInfo //
     cout << "Darren Ruddy\n";
     cout << "Lab Using Classes\n\n\n";
 
-}
+}*/
 
 
 class LabInfo{                          // Creating a class called Lab Info //

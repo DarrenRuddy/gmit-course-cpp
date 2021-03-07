@@ -17,7 +17,7 @@ private:                                // These elements are Private and not ex
     int month;
     int year;
 
-public:                                 // These are public elementa snd are Externally accessable //
+public:                                 // These are public elementa snd are Externally accessable /
     string name;
     string labId;
 
@@ -34,7 +34,7 @@ void setdate( int daytem, int montem, int yeartem){                             
 }; */
 int main(){
 
-  Labinfo();                            // Calling the LabInfo Function Created Above //
+  //Labinfo();                            // Calling the LabInfo Function Created Above //
 
   LabInfo MyInfo;                       // Creating an object Usint the Class MyInfo  //
 
