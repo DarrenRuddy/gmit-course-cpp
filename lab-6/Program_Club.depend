@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1614382339 source:c:\users\dr\documents\gmit-course-cpp\lab-program-club\program_club\main.cpp
+	<iostream>
+	"football_club.h"
+	"player.h"
+
+1614383233 c:\users\dr\documents\gmit-course-cpp\lab-program-club\program_club\football_club.h
+	<iostream>
+
+1614373704 source:c:\users\dr\documents\gmit-course-cpp\lab-program-club\program_club\player.cpp
+	<iostream>
+	"player.h"
+
+1614385477 c:\users\dr\documents\gmit-course-cpp\lab-program-club\program_club\player.h
+	<iostream>
+
+1614877639 source:c:\users\irilar\desktop\program_club\main.cpp
+	<iostream>
+	"football_club.h"
+	"player.h"
+
+1614878159 c:\users\irilar\desktop\program_club\football_club.h
+	<iostream>
+
+1614877705 c:\users\irilar\desktop\program_club\player.h
+	<iostream>
+
+1614877583 source:c:\users\irilar\desktop\program_club\player.cpp
+	"player.h"
+
+1614945665 source:c:\users\irilar\onedrive - gmit\c++\gmit-course-cpp\program_club\football_club.cpp
+	"football_club.h"
+
+1614878159 c:\users\irilar\onedrive - gmit\c++\gmit-course-cpp\program_club\football_club.h
+	<iostream>
+
+1614947486 source:c:\users\irilar\onedrive - gmit\c++\gmit-course-cpp\program_club\main.cpp
+	<iostream>
+	"football_club.h"
+	"player.h"
+
+1614945555 c:\users\irilar\onedrive - gmit\c++\gmit-course-cpp\program_club\player.h
+	<iostream>
+
+1614945555 source:c:\users\irilar\onedrive - gmit\c++\gmit-course-cpp\program_club\player.cpp
+	"player.h"
+
+1614945665 source:c:\users\dr\onedrive - gmit\c++\gmit-course-cpp\program_club - copy\football_club.cpp
+	"football_club.h"
+
+1615577746 c:\users\dr\onedrive - gmit\c++\gmit-course-cpp\program_club - copy\football_club.h
+	"player.h"
+	<iostream>
+
+1615574936 c:\users\dr\onedrive - gmit\c++\gmit-course-cpp\program_club - copy\player.h
+	<iostream>
+
+1614947486 source:c:\users\dr\onedrive - gmit\c++\gmit-course-cpp\program_club - copy\main.cpp
+	<iostream>
+	"football_club.h"
+	"player.h"
+
+1614945555 source:c:\users\dr\onedrive - gmit\c++\gmit-course-cpp\program_club - copy\player.cpp
+	"player.h"
+
+1614945665 source:c:\users\gttrd\onedrive - gmit\c++\gmit-course-cpp\program_club - copy\football_club.cpp
+	"football_club.h"
+
+1615714119 c:\users\gttrd\onedrive - gmit\c++\gmit-course-cpp\program_club - copy\football_club.h
+	"player.h"
+	<iostream>
+
+1615713412 c:\users\gttrd\onedrive - gmit\c++\gmit-course-cpp\program_club - copy\player.h
+	<iostream>
+
+1614947486 source:c:\users\gttrd\onedrive - gmit\c++\gmit-course-cpp\program_club - copy\main.cpp
+	<iostream>
+	"football_club.h"
+	"player.h"
+
+1614945555 source:c:\users\gttrd\onedrive - gmit\c++\gmit-course-cpp\program_club - copy\player.cpp
+	"player.h"
+
