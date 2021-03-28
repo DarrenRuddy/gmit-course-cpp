@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1616761173 source:c:\users\irilar\onedrive - gmit\c++\gmit-course-cpp\lab-code-refactor\football_club.cpp
+	"football_club.h"
+
+1616761173 c:\users\irilar\onedrive - gmit\c++\gmit-course-cpp\lab-code-refactor\football_club.h
+	<iostream>
+	"player.h"
+
+1616763258 c:\users\irilar\onedrive - gmit\c++\gmit-course-cpp\lab-code-refactor\player.h
+	<iostream>
+
+1616761175 source:c:\users\irilar\onedrive - gmit\c++\gmit-course-cpp\lab-code-refactor\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"football_club.h"
+
+1616763341 source:c:\users\irilar\onedrive - gmit\c++\gmit-course-cpp\lab-code-refactor\player.cpp
+	"player.h"
+
+1616764773 source:c:\users\gttrd\onedrive - gmit\c++\gmit-course-cpp\lab-code-refactor\football_club.cpp
+	"football_club.h"
+
+1616764773 c:\users\gttrd\onedrive - gmit\c++\gmit-course-cpp\lab-code-refactor\football_club.h
+	<iostream>
+	"player.h"
+
+1616953514 c:\users\gttrd\onedrive - gmit\c++\gmit-course-cpp\lab-code-refactor\player.h
+	<iostream>
+
+1616955813 source:c:\users\gttrd\onedrive - gmit\c++\gmit-course-cpp\lab-code-refactor\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"football_club.h"
+
+1616955016 source:c:\users\gttrd\onedrive - gmit\c++\gmit-course-cpp\lab-code-refactor\player.cpp
+	"player.h"
+
